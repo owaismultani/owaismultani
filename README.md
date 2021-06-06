@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Owais Multani</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A Passionate Backend Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaismultani&label=Profile%20views&color=0e75b6&style=flat" alt="owaismultani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaismultani" alt="owaismultani" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/omultani97" target="blank"><img src="https://img.shields.io/twitter/follow/omultani97?logo=twitter&style=for-the-badge" alt="omultani97" /></a> </p>
+<p align="left"> <a href="https://twitter.com/OwaisMultani2" target="blank"><img src="https://img.shields.io/twitter/follow/omultani97?logo=twitter&style=for-the-badge" alt="omultani97" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
